@@ -10,7 +10,7 @@ gradlePlugin {
     plugins {
         create("testFormatCheck") {
             id = "reminder-test-format-checker"
-            implementationClass = "com.example.plugins.TestFormatCheckPlugin"
+            implementationClass = "com.example.plugins.HelloPlugin"
         }
     }
 }

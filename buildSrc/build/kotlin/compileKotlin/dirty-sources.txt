@@ -1,1 +1,0 @@
-/Users/vitalymarchenko/workspace/pet/ua_marchenko_plugin/buildSrc/src/main/kotlin/com/example/plugins/TestFormatCheckPlugin.kt
