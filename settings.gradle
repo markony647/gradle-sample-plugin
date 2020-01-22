@@ -1,0 +1,5 @@
+rootProject.name = 'ua.marchenko.plugin'
+include 'greeting-plugin'
+include 'buildSrc'
+include 'buildSrc'
+

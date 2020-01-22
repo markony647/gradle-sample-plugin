@@ -1,0 +1,21 @@
+plugins {
+    id 'java'
+    id 'reminder-test-format-checker'
+}
+
+group 'ua.marchenko.plugin'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
+
+tasks.compileTestJava {
+    finalizedBy("hello")
+}

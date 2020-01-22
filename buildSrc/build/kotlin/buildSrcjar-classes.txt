@@ -1,0 +1,1 @@
+/Users/vitalymarchenko/workspace/pet/ua_marchenko_plugin/buildSrc/build/classes/java/main/com/example/plugins/TestFormatCheckPlugin.class
